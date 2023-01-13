@@ -10,7 +10,7 @@
 
 ```javascript
 const kinshark = {
-    pronouns: "OS",
+    pronoun: "OS",
     askMeAbout: ["thought leadership", "scaled agile", "ITIL"],
     technologies:{
         backEnd: ["nodejs", "python", "c#"],
