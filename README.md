@@ -21,7 +21,7 @@ const kinshark = {
         agile: ["atlassian", "nexus", "safe", "scrum"],
         devOps: ["aws", "azure", "gcp", "kubernetes"],
         management: ["tpm", "jidoka", "kaizen"],
-        misc: ["api", "swarm intelligence"]
+        misc: ["api", "swarm-intelligence"]
     },
     architecture: ["serverless", "microservices"],
 }
