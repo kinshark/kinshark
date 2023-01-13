@@ -1,7 +1,5 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-## Over 30 Years of Coding Experience
 ## Sr Director of Engineering 👨‍💻
+### Over 30 Years of Coding Experience
 
 [![](https://img.shields.io/badge/LinkedIn-mrseanh-blue)](https://www.linkedin.com/in/mrseanh/)
 
@@ -22,6 +20,6 @@ const kinshark = {
         management: ["TPM", "Jidoka", "Kaizen"],
         misc: ["APIs", "swarm intelligence"]
     },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+    architecture: ["Serverless Architecture", "microservices"],
 }
 ```
