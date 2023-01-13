@@ -8,7 +8,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const ashraf = {
+const kinshark = {
     pronouns: "OS",
     askMeAbout: ["thought leadership", "scaled agile", "ITIL"],
     technologies:{
