@@ -10,19 +10,19 @@
 
 ```javascript
 const kinshark = {
-    pronouns: "OS",
-    askMeAbout: ["thought leadership", "scaled agile", "ITIL"],
+    pronoun: "OS",
+    askMeAbout: ["thought-leadership", "scaled-agile", "itil"],
     technologies:{
         backEnd: ["nodejs", "python", "c#"],
         fronEnd: ["angular", "react"],
         mobileApp: ["react","angular"],
-        database: ["elastic","SQL"],
-        cloud: ["mongo-realm","aws-lambda"],
-        agile: ["atlassian", "nexus", "SAFe 5.1"],
-        devOps: ["AWS", "Azure", "GCP", "kubernetes"],
-        management: ["TPM", "Jidoka", "Kaizen"],
-        misc: ["APIs", "swarm intelligence"]
+        database: ["elastic","sql"],
+        cloud: ["ec2", "arm", "sage-maker"],
+        agile: ["atlassian", "nexus", "safee"],
+        devOps: ["aws", "azure", "gcp", "kubernetes"],
+        management: ["tpm", "jidoka", "kaizen"],
+        misc: ["api", "swarm intelligence"]
     },
-    architecture: ["Serverless Architecture", "microservices"],
+    architecture: ["serverless", "microservices"],
 }
 ```
