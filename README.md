@@ -18,7 +18,7 @@ const kinshark = {
         mobileApp: ["react","angular"],
         database: ["elastic","sql"],
         cloud: ["ec2", "arm", "sage-maker"],
-        agile: ["atlassian", "nexus", "safee"],
+        agile: ["atlassian", "nexus", "safe", "scrum"],
         devOps: ["aws", "azure", "gcp", "kubernetes"],
         management: ["tpm", "jidoka", "kaizen"],
         misc: ["api", "swarm intelligence"]
